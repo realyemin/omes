@@ -1,0 +1,135 @@
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+C:\prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+D:\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+D:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+Z:\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+C:\Users\OMER\Desktop\Visual Studio\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+C:\Users\Alper\Works\OMES\Project\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\bin\Debug\ComCommunication.dll
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+C:\Users\Alper\Works\OMES\201701\Project\QPU\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+G:\QPU MSSQL\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+G:\QPU MSSQL\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+G:\QPU MSSQL\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+G:\QPU MSSQL\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+G:\QPU MSSQL\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+G:\QPU MSSQL\QPU_SerialPort\bin\Debug\ComCommunication.dll
+G:\QPU MSSQL\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+G:\QPU MSSQL\QPU_SerialPort\bin\Debug\ComCommunication.pdb
+G:\OMES MYSQL VERS\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+G:\OMES MYSQL VERS\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+G:\OMES MYSQL VERS\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+G:\OMES MYSQL VERS\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.Properties.Resources.resources
+G:\OMES MYSQL VERS\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csproj.GenerateResource.Cache
+G:\OMES MYSQL VERS\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+G:\OMES MYSQL VERS\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+G:\OMES MYSQL VERS\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+G:\Yeni klasör\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe.config
+G:\Yeni klasör\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.exe
+G:\Yeni klasör\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.pdb
+G:\Yeni klasör\QPU_SerialPort\bin\Debug\QPU_SerialPort.exe
+G:\Yeni klasör\QPU_SerialPort\bin\Debug\QPU_SerialPort.pdb
+G:\Yeni klasör\QPU_SerialPort\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Yeni klasör\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+G:\Yeni klasör\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.Properties.Resources.resources
+G:\Yeni klasör\QPU_SerialPort\obj\x86\Debug\QPU_SerialPort.csproj.GenerateResource.Cache
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.exe.config
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.exe
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.pdb
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.exe
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.pdb
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\System.Data.DataSetExtensions.dll
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.Properties.Resources.resources
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csproj.GenerateResource.Cache
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\ComCommunication.dll
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\ComCommunication.pdb
+G:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.exe.config
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.exe
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.pdb
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\ComCommunication.dll
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\MySql.Data.dll
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\System.Data.DataSetExtensions.dll
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\ComCommunication.pdb
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\bin\Debug\MySql.Data.xml
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.Properties.Resources.resources
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csproj.GenerateResource.Cache
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csproj.CoreCompileInputs.cache
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.exe
+F:\Yeni klasör\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.pdb
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.exe.config
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.exe
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\QPU_SerialPort.pdb
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\MySql.Data.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\System.Data.DataSetExtensions.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\ComCommunication.pdb
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\bin\Debug\MySql.Data.xml
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csprojResolveAssemblyReference.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.Properties.Resources.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csproj.GenerateResource.Cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.csproj.CoreCompileInputs.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.exe
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QPU_SerialPort 09 10 2017\obj\x86\Debug\QPU_SerialPort.pdb

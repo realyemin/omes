@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_biletMakinesi" value="name:MAKINE_ADRESI;datatype:int,name:MAKINE_ADI;datatype:string,name:MAKINE_TURU;datatype:int" />
+</info>

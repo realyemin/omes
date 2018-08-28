@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS `sys_mesaj` (
+  `SMMID` int(11) NOT NULL,
+  `MESAJ` varchar(30) DEFAULT ''
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+ALTER DATABASE `sys_mesaj` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;

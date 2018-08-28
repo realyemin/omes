@@ -1,0 +1,16 @@
+CREATE TABLE IF NOT EXISTS `kuyruk` (
+  `BID` int(11) NOT NULL,
+  `GRPID` int(11) DEFAULT NULL,
+  `BILET_NO` smallint(6) DEFAULT NULL,
+  `TRANSFER` tinyint(1) DEFAULT '0',
+  `OZEL_MUSTERI` tinyint(1) DEFAULT '0',
+  `S_YF1` varchar(50) DEFAULT '',
+  `S_YF2` varchar(50) DEFAULT '',
+  `S_YF3` varchar(50) DEFAULT '',
+  `I_YF1` int(11) DEFAULT NULL,
+  `I_YF2` int(11) DEFAULT NULL,
+  `I_YF3` int(11) DEFAULT NULL,
+  `B_YF` tinyint(1) DEFAULT NULL,
+  PRIMARY KEY (`BID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+ALTER DATABASE `kuyruk` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;

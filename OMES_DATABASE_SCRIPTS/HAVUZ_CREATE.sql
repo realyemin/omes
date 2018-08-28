@@ -1,0 +1,22 @@
+USE [QCU2.MDF]
+GO
+
+/****** Object:  Table [dbo].[Havuz]    Script Date: 7.06.2018 22:29:19 ******/
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[Havuz](
+	[SatirId] [int] IDENTITY(1,1) NOT NULL,
+	[BID] [int] NULL,
+	[TID] [int] NULL,
+	[Tarih] [datetime] NULL,
+ CONSTRAINT [PK_Havuz] PRIMARY KEY CLUSTERED 
+(
+	[SatirId] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

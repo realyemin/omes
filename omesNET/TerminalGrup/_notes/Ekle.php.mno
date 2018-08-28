@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_grup" value="name:GRPID;datatype:int,name:GRUP_ISMI;datatype:string" />
+	<infoitem key="UD_terminal" value="name:TID;datatype:int,name:TERMINAL_AD;datatype:string" />
+	<infoitem key="UD_terminal_grup" value="name:count(tid);datatype:int" />
+</info>

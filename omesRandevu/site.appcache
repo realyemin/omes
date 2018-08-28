@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# 2018-07-04 v1.0.0
+/dist/ *
+
+NETWORK:
+index.php
+dogrula.php
+kon.php
+
+
+FALLBACK:
+/html/ /offline.html

@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_SistemAyarlari" value="name:SERVER_IP;datatype:string,name:FIRMA_ISMI;datatype:string" />
+</info>

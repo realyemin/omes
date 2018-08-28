@@ -1,0 +1,191 @@
+/*
+-- =============================================
+-- Author:		EKOMURCU
+-- Create date: 13.04.2018
+-- Description:	Randevu Sistemi css
+-- ============================================= 
+*/
+.button {
+  
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.button:hover {
+
+   box-shadow: 3px 3px 4px #000;
+    
+}
+.mesaj {
+	font-weight:bold;
+    border: none;
+    color: white;
+    padding: 15px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+.mavi {background-color: #008CBA;} /* Blue */
+.sari {background-color: #FF0;} /* Yellow */
+.yesil {background-color: #4CAF50;}/* Green */
+.kirmizi {background-color: #f44336;} /* Red */ 
+.gri {background-color: #e7e7e7; color: black;} /* Gray */ 
+.siyah {background-color: #555555; display:none;} /* Black */
+.turuncu {background-color: #C0C0C0; } /* orange */
+
+/* Radio button */
+
+
+h1 {
+  color: #18191b;
+  margin-bottom: 2rem;
+}
+
+section {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+section > div {
+  /*flex: 1; */
+  padding: 0.5rem;
+}
+
+input[type="radio"] {
+  display: none;
+}
+input[type="radio"]:not(:disabled) ~ label {
+  cursor: pointer;
+}
+input[type="radio"]:disabled ~ label {
+  color: #bcc2bf;
+  border-color: #bcc2bf;
+  box-shadow: none;
+  cursor: not-allowed;
+}
+
+label {
+
+  width:100%;
+  display: block;
+  background: white;
+  border: 2px solid #20df80;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0px 3px 10px -2px rgba(161, 170, 166, 0.5);
+  position: relative;
+}
+label:hover{
+  background: yellow;
+ 
+}
+input[type="radio"]:checked + label {
+  background: #20df80;
+  color: white;
+  box-shadow: 0px 0px 20px rgba(0, 255, 128, 0.75);
+}
+input[type="radio"]:checked + label::after {
+  color: #3d3f43;
+  font-family: FontAwesome;
+  border: 2px solid #1dc973;
+  content: "\f00c";
+  font-size: 14px;
+  position: absolute;
+  top: -25px;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 30px;
+  width: 30px;
+  line-height: 30px;
+  text-align: center;
+  border-radius: 50%;
+  background: white;
+  box-shadow: 0px 2px 5px -2px rgba(0, 0, 0, 0.25);
+}
+
+input[type="radio"]#control_05:checked + label {
+  background: red;
+  border-color: red;
+}
+
+input[type="radio"].selected:checked + label {
+  background: red;
+  border-color: red;
+}
+
+@media only screen and (max-width: 700px) {
+  section {
+    flex-direction: column;
+  }
+}
+
+/*Akordeon menu */
+.accordion {
+	margin-top:10px;
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+}
+
+.active, .accordion:hover {
+    background-color: #ccc; 
+}
+
+.panel {
+    padding: 18px 18px;
+    /*display: none; akordeon kullanılacaksa açın ertu */
+    background-color: white;
+    overflow: hidden;
+}
+.dolubos{
+	display:block-inline; 
+	margin-top:10px;
+	margin-bottom:20px;
+}
+.pRandevu{
+	/*randevu radiolari paragrafları icin */
+	font-weight:bold;
+	padding:0 5px;	
+}
+/*sayfa aşama Numaratör */
+span.step {
+  background: #cccccc;
+  border-radius: 0.8em;
+  -moz-border-radius: 0.8em;
+  -webkit-border-radius: 0.8em;
+  color: #ffffff;
+  display: inline-block;
+  font-weight: bold;
+  line-height: 1.6em;
+  margin-right: 5px;
+  text-align: center;
+  width: 1.6em; 
+}
+
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: red;
+    opacity: 1; /* Firefox */
+}
+
+:-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: red;
+}
+
+::-ms-input-placeholder { /* Microsoft Edge */
+    color: red;
+}

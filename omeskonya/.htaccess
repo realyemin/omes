@@ -1,0 +1,11 @@
+#AddHandler cgi-script .php .pl .py .jsp .asp .htm .shtml .sh .cgi
+#Options -ExecCGI
+Options -Indexes 
+ErrorDocument 404  	/hatalar/index.php?hata=404
+ErrorDocument 400  	/hatalar/index.php?hata=400
+ErrorDocument 401 	/hatalar/index.php?hata=401
+ErrorDocument 403  	/hatalar/index.php?hata=403
+ErrorDocument 500  	/hatalar/index.php?hata=500
+ErrorDocument 501 	/hatalar/index.php?hata=501
+ErrorDocument 502 	/hatalar/index.php?hata=502
+ErrorDocument 503 	/hatalar/index.php?hata=503

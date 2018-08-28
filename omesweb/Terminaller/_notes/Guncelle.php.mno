@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_TerminalGuncelle" value="name:TID;datatype:int,name:ELTID;datatype:int,name:TERMINAL_AD;datatype:string,name:OTO_CAGRI;datatype:int,name:OTO_SURE;datatype:time,name:DURUM;datatype:int,name:AKTIF;datatype:int,name:AKTIF_BID;datatype:int,name:SON_CAGRILAN_GRUP;datatype:int,name:SON_CAGRILAN_TUR;datatype:int,name:SIL;datatype:int,name:S_YF1;datatype:string,name:S_YF2;datatype:string,name:S_YF3;datatype:string,name:I_YF1;datatype:int,name:I_YF2;datatype:int,name:I_YF3;datatype:int,name:B_YF;datatype:int,name:TerminalTipi;datatype:string,name:DoubleClick;datatype:int,name:SiralamaTipi;datatype:string,name:CagriSiralamaTipi;datatype:string" />
+</info>

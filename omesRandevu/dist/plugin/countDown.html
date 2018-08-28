@@ -1,0 +1,59 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="dist/plugin/FlipClock/compiled/flipclock.css">
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+		<script src="dist/plugin/FlipClock/compiled/flipclock.js"></script>
+<style>
+.countDownSabitle
+{
+position:absolute;
+top:5px;
+left:5px;
+color:white;
+}
+
+.clock {
+position: fixed !important;
+padding-top: 0px;
+margin-left: -190px;
+margin-top: -40px;
+height:100px;
+width: 800px;
+transform: scale(.54);
+-ms-transform: scale(.54); 
+-webkit-transform: scale(.54);
+-o-transform: scale(.54); 
+-moz-transform: scale(.54); 
+}
+.flip-clock-label{ display: none !important; }
+</style>		
+	</head>
+	<body>
+	<div class="countDownSabitle">Oturum Süreniz:<div class="clock"></div></div>
+	<div class="message"></div>
+
+	<script type="text/javascript">
+		var clock;
+		
+		$(document).ready(function() {
+
+			clock = $('.clock').FlipClock(10, {
+		        clockFace: 'MinuteCounter',
+		        countdown: true,
+		        callbacks: {
+		        	stop: function() {
+		        		$('.message').html('Oturum Süreniz doldu!');
+						alert("Oturum Süreniz doldu!");
+						window.location="index.php";
+		        	}
+		        }
+		    });
+
+		});
+		
+	</script>
+	
+	</body>
+</html>

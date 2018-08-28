@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_terminal" value="name:TID;datatype:int,name:TERMINAL_AD;datatype:string" />
+	<infoitem key="UD_grup" value="name:GRPID;datatype:int,name:GRUP_ISMI;datatype:string" />
+	<infoitem key="UD_terminal_grup" value="name:count(tid);datatype:int" />
+	<infoitem key="UD_terminalListe" value="name:TID;datatype:int,name:ELTID;datatype:int,name:TERMINAL_AD;datatype:string,name:OTO_CAGRI;datatype:int,name:OTO_SURE;datatype:time,name:DURUM;datatype:int,name:AKTIF;datatype:int,name:AKTIF_BID;datatype:int,name:SON_CAGRILAN_GRUP;datatype:int,name:SON_CAGRILAN_TUR;datatype:int,name:SIL;datatype:int,name:S_YF1;datatype:string,name:S_YF2;datatype:string,name:S_YF3;datatype:string,name:I_YF1;datatype:int,name:I_YF2;datatype:int,name:I_YF3;datatype:int,name:B_YF;datatype:int,name:TerminalTipi;datatype:string,name:DoubleClick;datatype:int,name:SiralamaTipi;datatype:string,name:CagriSiralamaTipi;datatype:string" />
+	<infoitem key="UD_BiletMakinesi" value="name:MAKINE_ADRESI;datatype:int,name:MAKINE_ADI;datatype:string" />
+	<infoitem key="UD_Grup" value="name:GRPID;datatype:int,name:GRUP_ISMI;datatype:string" />
+	<infoitem key="UD_Fontlar" value="name:id;datatype:int,name:FONT;datatype:string" />
+	<infoitem key="UD_Personel" value="name:PID;datatype:int,name:AD;datatype:string,name:SOYAD;datatype:string" />
+	<infoitem key="UD_AnaTabloYon" value="name:YID;datatype:int,name:TABLO_ADI;datatype:string,name:TERMINAL_AD;datatype:string,name:YON;datatype:int,name:Port;datatype:int" />
+	<infoitem key="UD_AnaTablo" value="name:ATID;datatype:int,name:TABLO_ADI;datatype:string" />
+	<infoitem key="UD_Terminal" value="name:TID;datatype:int,name:TERMINAL_AD;datatype:string" />
+</info>

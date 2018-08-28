@@ -1,0 +1,25 @@
+<style type="text/css">
+#divsaat {  
+font-family:<?php echo $saatFont; ?> font-weight:bold;
+font-size:<?php echo $saatPunto; ?>pt; 
+color:<?php echo "#".substr(signed2hex($saatRenk),2,6); ?>;
+background-color:<?php echo "#".substr(signed2hex($saatArkaplanRenk),2,6); ?>;
+
+text-align:center; 
+}
+</style>
+<script language="JavaScript">
+var saat;
+         function digitalsaat()
+            {
+               var simdi = new Date();
+               var dsaat = simdi.getHours();
+               var ddak = simdi.getMinutes();
+               var sny = simdi.getSeconds();
+               saat = ((dsaat<10) ? '0' : '') + dsaat + ':' + ((ddak<10) ? '0' : '') + ddak + ':' + ((sny<10) ? '0' : '') + sny ;
+               divsaat.innerHTML = "&nbsp;"+saat;
+               setTimeout("digitalsaat()", 1000); 
+            }
+</script>
+<div id="divsaat"></div>
+

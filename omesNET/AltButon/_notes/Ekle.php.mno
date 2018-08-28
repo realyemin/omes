@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_BiletMakinesi" value="name:MAKINE_ADRESI;datatype:int,name:MAKINE_ADI;datatype:string" />
+	<infoitem key="UD_Grup" value="name:GRPID;datatype:int,name:GRUP_ISMI;datatype:string" />
+	<infoitem key="UD_Fontlar" value="name:id;datatype:int,name:FONT;datatype:string" />
+</info>

@@ -1,0 +1,135 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="QLU.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EkranNo" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="UstBaslik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LCD Demo</Value>
+    </Setting>
+    <Setting Name="AltBaslik" Type="System.String" Scope="User">
+      <Value Profile="(Default)">LCD Demo</Value>
+    </Setting>
+    <Setting Name="VideoURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.trt.net.tr/anasayfa/canli.aspx?y=tv&amp;k=trt1</Value>
+    </Setting>
+    <Setting Name="SesURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="PORT_Gonderici" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">505</Value>
+    </Setting>
+    <Setting Name="PORT_Alici" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">506</Value>
+    </Setting>
+    <Setting Name="DefaultFormID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="AnatabloID" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">130</Value>
+    </Setting>
+    <Setting Name="ClientIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="OtoIP" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="KayanYaziFont" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Microsoft Sans Serif</Value>
+    </Setting>
+    <Setting Name="KayanYaziPunto" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">30</Value>
+    </Setting>
+    <Setting Name="KayanYaziRenk" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-657931</Value>
+    </Setting>
+    <Setting Name="KayanYaziArkaPlanRenk" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-13395457</Value>
+    </Setting>
+    <Setting Name="Sutun1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Bilet No</Value>
+    </Setting>
+    <Setting Name="Sutun2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Vezne No</Value>
+    </Setting>
+    <Setting Name="LCDArkaplanRenk" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-6703919</Value>
+    </Setting>
+    <Setting Name="UstBaslikKaysin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AltBaslikKaysin" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UstBaslikYon" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="AltBaslikYon" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="UstBaslikHiz" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="AltBaslikHiz" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">10</Value>
+    </Setting>
+    <Setting Name="SutunRenk" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-16777216</Value>
+    </Setting>
+    <Setting Name="SutunYaziOzellik" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="LCDFormArkaplanRenk" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-13395457</Value>
+    </Setting>
+    <Setting Name="CagNoFont" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="CagNoRenk" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="CagNoPunto" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">60</Value>
+    </Setting>
+    <Setting Name="SaatYukseklik" Type="System.Decimal" Scope="User">
+      <Value Profile="(Default)">140</Value>
+    </Setting>
+    <Setting Name="TvKaynak" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Yok</Value>
+    </Setting>
+    <Setting Name="TvKaynakIndex" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">-1</Value>
+    </Setting>
+    <Setting Name="TvKanal" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="ServerIP" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ekomurcu</Value>
+    </Setting>
+    <Setting Name="MediaTipi" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">4</Value>
+    </Setting>
+    <Setting Name="WebBrowserUrl" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://omes.net/</Value>
+    </Setting>
+    <Setting Name="CagNoPuntoTekSatır" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">250</Value>
+    </Setting>
+    <Setting Name="Ses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Dosyadan</Value>
+    </Setting>
+    <Setting Name="SatirSayisi" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">5</Value>
+    </Setting>
+    <Setting Name="dbUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="dbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">nichtwar</Value>
+    </Setting>
+    <Setting Name="dbName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">qcu</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

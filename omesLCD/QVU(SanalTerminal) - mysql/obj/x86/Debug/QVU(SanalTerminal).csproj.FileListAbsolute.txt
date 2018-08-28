@@ -1,0 +1,277 @@
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+C:\prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+D:\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+D:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+Z:\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+C:\Users\Alper\Works\OMES\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+C:\Users\Alper\Works\OMES\201701\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe.config
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.exe
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.pdb
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.exe
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\QVU.pdb
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\en\QVU.resources.dll
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr-TR\QVU.resources.dll
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\bin\Debug\tr\QVU.resources.dll
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Form1.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.Properties.Resources.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.Test.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\en\QVU.resources.dll
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr-TR\QVU.resources.dll
+G:\Project omes\QVU(SanalTerminal)\QVU(SanalTerminal)\obj\x86\Debug\tr\QVU.resources.dll
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\bin\Debug\QVU.exe.config
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.exe
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.pdb
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\bin\Debug\QVU.exe
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\bin\Debug\QVU.pdb
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\bin\Debug\en\QVU.resources.dll
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\bin\Debug\tr-TR\QVU.resources.dll
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\bin\Debug\tr\QVU.resources.dll
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.Form1.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.Properties.Resources.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.Test.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\en\QVU.resources.dll
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\tr-TR\QVU.resources.dll
+G:\OMES MYSQL VERS\QVU(SanalTerminal) - mysql\obj\x86\Debug\tr\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\QVU.exe.config
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\QVU.exe
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\QVU.pdb
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\en\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\tr-TR\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\tr\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\MySql.Data.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\bin\Debug\MySql.Data.xml
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU(SanalTerminal).csprojResolveAssemblyReference.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.Form1.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmParkingTickets.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.Properties.Resources.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.Test.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.WOutOfServiceReason.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.WPrinterSetup.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.en.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.tr-TR.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmLogin.tr.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.en.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.WFroms.FrmVirtualTerminal.tr-TR.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU(SanalTerminal).csproj.GenerateResource.Cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU(SanalTerminal).csproj.CoreCompileInputs.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\en\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\tr-TR\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\tr\QVU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.exe
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QVU(SanalTerminal) - mysql\obj\x86\Debug\QVU.pdb

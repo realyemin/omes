@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_BiletMakinesi" value="name:MAKINE_ADRESI;datatype:int,name:MAKINE_ADI;datatype:string" />
+	<infoitem key="UD_Grup" value="name:GRPID;datatype:int,name:GRUP_ISMI;datatype:string" />
+	<infoitem key="UD_AnaButon" value="name:BM_ADRES;datatype:int,name:BTNID;datatype:int,name:GRP_ID;datatype:int,name:ANA_BTNID;datatype:int,name:BTN_EKRAN;datatype:string,name:BTN_BILET_S1;datatype:string,name:BTN_BILET_S2;datatype:string,name:BTN_BILET_S3;datatype:string,name:BTN_BILET_S4;datatype:string,name:MAKS_BILET;datatype:int,name:BILET_KOPYA;datatype:int,name:YUKSEKLIK;datatype:int,name:GENISLIK;datatype:int,name:RENK;datatype:int,name:YAZI_RENGI;datatype:int,name:RESIM;datatype:blob,name:RESIM_YON;datatype:int,name:RESIM_AD;datatype:string,name:ESKI_RESIM_AD;datatype:string,name:ACIKLAMA;datatype:string,name:AKTIF;datatype:int,name:S_YF1;datatype:string,name:S_YF2;datatype:string,name:S_YF3;datatype:string,name:I_YF1;datatype:int,name:I_YF2;datatype:int,name:I_YF3;datatype:int,name:B_YF;datatype:int,name:RandevuButonuMu;datatype:int,name:GRP_ID2;datatype:int,name:GRP1_ORAN;datatype:int,name:GRP2_ORAN;datatype:int,name:GRP_ID3;datatype:int,name:GRP3_ORAN;datatype:int,name:GRP_ID4;datatype:int,name:GRP4_ORAN;datatype:int,name:FONT;datatype:string,name:PUNTO;datatype:int" />
+</info>

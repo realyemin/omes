@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Fontlar" value="name:id;datatype:int,name:FONT;datatype:string" />
+	<infoitem key="UD_Personel" value="name:PID;datatype:int,name:AD;datatype:string,name:SOYAD;datatype:string" />
+	<infoitem key="UD_BiletMakinesi" value="name:MAKINE_ADRESI;datatype:int,name:MAKINE_ADI;datatype:string" />
+	<infoitem key="UD_BiletAyar" value="name:KID;datatype:int,name:BILET_BASLIK_S1;datatype:string,name:BILET_BASLIK_S2;datatype:string,name:BILET_BASLIK_S3;datatype:string,name:BILET_BASLIK_S4;datatype:string,name:ETIKET_BEKLEYEN;datatype:string,name:ETIKET_KARSILAMA1;datatype:string,name:ETIKET_KARSILAMA2;datatype:string,name:FONT_BEKLEYEN;datatype:string,name:FONT_KARSILAMA;datatype:string,name:FONT_BASLIK;datatype:string,name:FONT_GRUP;datatype:string,name:FONT_TARIH;datatype:string,name:FONT_SIRANO;datatype:string,name:FONT2_SIRANO;datatype:string,name:PUNTO_BEKLEYEN;datatype:int,name:PUNTO_KARSILAMA;datatype:int,name:PUNTO_BASLIK;datatype:int,name:PUNTO_GRUP;datatype:int,name:PUNTO_TARIH;datatype:int,name:PUNTO_SIRANO;datatype:int,name:YAZ_BEKLEYEN;datatype:int,name:YAZ_KARSILAMA;datatype:int,name:YAZ_BASLIK;datatype:int,name:YAZ_GRUP;datatype:int,name:YAZ_TARIH;datatype:int,name:YAZ_SIRANO;datatype:int,name:S_YF1;datatype:string,name:S_YF2;datatype:string,name:S_YF3;datatype:string,name:I_YF1;datatype:int,name:I_YF2;datatype:int,name:I_YF3;datatype:int,name:B_YF;datatype:int,name:OrtalamaBeklemeSuresiYaz;datatype:int" />
+</info>

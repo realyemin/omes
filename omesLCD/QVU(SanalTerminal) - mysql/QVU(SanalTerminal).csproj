@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9AFA1C01-2F06-4CC4-8584-F77AEAE816F3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QVU</RootNamespace>
+    <AssemblyName>QVU</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\CommonProcess\CommonProcess.cs" />
+    <Compile Include="Classes\DBLayer\CommonDataOptions.cs" />
+    <Compile Include="Classes\DBLayer\DBProcess.cs" />
+    <Compile Include="Classes\DBLayer\SanalTerminal.cs" />
+    <Compile Include="Classes\Objects\Grup.DB.cs" />
+    <Compile Include="Classes\OtherProcess\QSError.cs" />
+    <Compile Include="Classes\OtherProcess\Servis.DB.cs" />
+    <Compile Include="Classes\OtherProcess\Mola.cs" />
+    <Compile Include="Classes\OtherProcess\Mola.DB.cs" />
+    <Compile Include="Classes\OtherProcess\Servis.cs" />
+    <Compile Include="Classes\QueueLayer\EventArgsClasses\NextTicketDetectedEventArgs.cs" />
+    <Compile Include="Classes\QueueLayer\EventArgsClasses\StatementsChangedEventArgs.cs" />
+    <Compile Include="Classes\QueueLayer\Kuyruk.cs" />
+    <Compile Include="Classes\QueueLayer\Kuyruk.DB.cs" />
+    <Compile Include="Classes\QueueLayer\Kuyruk.Logic.cs" />
+    <Compile Include="Classes\QueueLayer\KuyrukSira.cs" />
+    <Compile Include="Classes\QueueLayer\TerminalGrup.cs" />
+    <Compile Include="Classes\QueueLayer\TerminalGrup.DB.cs" />
+    <Compile Include="Classes\QueueLayer\Terminaller.cs" />
+    <Compile Include="Classes\QueueLayer\Terminaller.DB.cs" />
+    <Compile Include="Classes\SocketCommunicateLayer\TCPIPCommunicating.cs" />
+    <Compile Include="Classes\SysConfigration\ServerConfig.cs" />
+    <Compile Include="Classes\SysConfigration\ServerConfig.DB.cs" />
+    <Compile Include="Classes\TicketLayer\Bilet.cs" />
+    <Compile Include="Classes\TicketLayer\Bilet.DB.cs" />
+    <Compile Include="Classes\TicketLayer\BiletMakineButon.cs" />
+    <Compile Include="Classes\TicketLayer\BiletMakineButon.DB.cs" />
+    <Compile Include="Classes\TicketLayer\Grup.cs" />
+    <Compile Include="Classes\TicketLayer\Grup.DB.cs" />
+    <Compile Include="Classes\UserAccessLayer\EventArgsClasses\LoginEventArgs.cs" />
+    <Compile Include="Classes\UserAccessLayer\Settings.cs" />
+    <Compile Include="Classes\UserAccessLayer\UserLogin.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OlayGunluk.cs" />
+    <Compile Include="WFroms\FrmParkingTickets.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFroms\FrmParkingTickets.Designer.cs">
+      <DependentUpon>FrmParkingTickets.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WFroms\FrmVirtualTerminal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFroms\FrmVirtualTerminal.Designer.cs">
+      <DependentUpon>FrmVirtualTerminal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WFroms\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFroms\FrmLogin.designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WFroms\Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFroms\Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WFroms\WOutOfServiceReason.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFroms\WOutOfServiceReason.Designer.cs">
+      <DependentUpon>WOutOfServiceReason.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WFroms\WPrinterSetup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WFroms\WPrinterSetup.Designer.cs">
+      <DependentUpon>WPrinterSetup.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmLogin.en.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmLogin.tr-TR.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmLogin.tr.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmParkingTickets.resx">
+      <DependentUpon>FrmParkingTickets.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmVirtualTerminal.en.resx">
+      <DependentUpon>FrmVirtualTerminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmVirtualTerminal.resx">
+      <DependentUpon>FrmVirtualTerminal.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="WFroms\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\FrmVirtualTerminal.tr-TR.resx">
+      <DependentUpon>FrmVirtualTerminal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\WOutOfServiceReason.resx">
+      <DependentUpon>WOutOfServiceReason.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WFroms\WPrinterSetup.resx">
+      <DependentUpon>WPrinterSetup.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Classes\Objects\Grup.Business.cs" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NextTicket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ReCallTicketNumber.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+    <None Include="Resources\refresh.png" />
+    <None Include="Resources\redo.png" />
+    <None Include="Resources\ReCallTicketNumber_Sizing.png" />
+    <None Include="Resources\OutOfService3_Sizing.png" />
+    <None Include="Resources\NextTicket_Sizing.png" />
+    <None Include="Resources\1317747723_clock_Sizing.png" />
+    <None Include="Resources\HaveNotWaiting.png" />
+    <None Include="Resources\HaveWaiting.png" />
+    <None Include="Resources\OutOfService3.png" />
+    <None Include="Resources\PrinterSetup.png" />
+    <None Include="Resources\1317747971_stop.png" />
+    <None Include="Resources\1317747723_clock blue.png" />
+    <None Include="Resources\Stop1PressedBlue.png" />
+    <None Include="Resources\OutOfService.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

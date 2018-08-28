@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_gruplar" value="name:GRPID;datatype:int,name:GRUP_ISMI;datatype:string" />
+	<infoitem key="UD_terminaller" value="name:TID;datatype:int,name:TERMINAL_AD;datatype:string" />
+	<infoitem key="UD_terminal_grup" value="name:TGID;datatype:int,name:TID;datatype:int,name:GRPID;datatype:int,name:CAGRI_ORAN;datatype:int,name:TRANSFER_ORAN;datatype:int,name:YARDIM_GRUBU;datatype:int,name:CAGRILAN;datatype:int,name:TRANSFER_CAGRILAN;datatype:int,name:ONCELIK;datatype:int,name:S_YF1;datatype:string,name:S_YF2;datatype:string,name:S_YF3;datatype:string,name:I_YF1;datatype:int,name:I_YF2;datatype:int,name:I_YF3;datatype:int,name:B_YF;datatype:int,name:AYRICALIKLI;datatype:int" />
+</info>

@@ -1,0 +1,26 @@
+CREATE TABLE IF NOT EXISTS `personeller` (
+  `PID` int(11) NOT NULL AUTO_INCREMENT,
+  `TID` int(11) DEFAULT NULL,
+  `AD` varchar(25) DEFAULT '',
+  `SOYAD` varchar(25) DEFAULT '',
+  `ADRES` varchar(250) DEFAULT '',
+  `TEL` varchar(15) DEFAULT NULL,
+  `GSM` varchar(15) DEFAULT NULL,
+  `EMAIL` varchar(30) DEFAULT '',
+  `ACIKLAMA` varchar(250) DEFAULT '',
+  `CALISIYOR` tinyint(1) DEFAULT '1',
+  `KAYIT_TARIHI` datetime DEFAULT CURRENT_TIMESTAMP,
+  `KULLANICI_ADI` varchar(15) NOT NULL DEFAULT '',
+  `SIFRE` varchar(15) NOT NULL DEFAULT '',
+  `OTURUM_DURUM` tinyint(1) DEFAULT '0',
+  `SIL` tinyint(1) DEFAULT '0',
+  `S_YF1` varchar(50) DEFAULT '',
+  `S_YF2` varchar(50) DEFAULT '',
+  `S_YF3` varchar(50) DEFAULT '',
+  `I_YF1` int(11) DEFAULT NULL,
+  `I_YF2` int(11) DEFAULT NULL,
+  `I_YF3` int(11) DEFAULT NULL,
+  `B_YF` tinyint(1) DEFAULT NULL,
+  PRIMARY KEY (`PID`)
+) ENGINE=InnoDB AUTO_INCREMENT=28 DEFAULT CHARSET=utf8;
+ALTER DATABASE `personeller` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;

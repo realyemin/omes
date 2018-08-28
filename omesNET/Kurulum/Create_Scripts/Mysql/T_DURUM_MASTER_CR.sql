@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS `t_durum_master` (
+  `DID` int(11) NOT NULL,
+  `DURUM` varchar(25) DEFAULT '',
+  PRIMARY KEY (`DID`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+ALTER DATABASE `t_durum_master` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;

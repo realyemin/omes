@@ -1,0 +1,19 @@
+wamp3.0 web yayýný için ayarlar (Apache 2.4 versiyonu için)
+1.wamp'ý cevrimiçi moda alýn(online mode)
+2.apache ayarlarý-> httpd-vhost.conf dosyasý içinde aþaðýdaki gib ayarlarý açmak gerekir.
+
+Require denied kýsmýný -> Require all granted þeklinde deðiþtirmek gerekir.
+
+	<VirtualHost *:80>
+	ServerName omeskonya
+	DocumentRoot "e:/web_projects/www/aktif/omes/omeskonya"
+	<Directory  "e:/web_projects/www/aktif/omes/omeskonya/">
+		Options +Indexes +Includes +FollowSymLinks +MultiViews
+		AllowOverride All
+		Require all granted
+	</Directory>
+	</VirtualHost>
+
+3.Güvenlik duvarýndan Apache HTTP Server a izin verilmeli. uygulamalarýn windows güvenlik duvarý üzerinde iletiþim kurmasýna
+izin ver kýsmýndan. Apache HTTP Server ý bulup ayarlarý deðiþtir diyerek Özel + Ortak þeceneklerini aktik olarak iþaretleyin
+

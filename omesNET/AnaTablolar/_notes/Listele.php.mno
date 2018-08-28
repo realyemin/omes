@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_AnaTablo" value="name:ATID;datatype:int,name:TABLO_ADI;datatype:string,name:TABLO_TURU;datatype:int" />
+</info>

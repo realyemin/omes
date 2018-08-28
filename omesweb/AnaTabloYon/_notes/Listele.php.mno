@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_AnaTablo" value="name:ATID;datatype:int,name:TABLO_ADI;datatype:string" />
+	<infoitem key="UD_Terminal" value="name:TID;datatype:int,name:TERMINAL_AD;datatype:string" />
+	<infoitem key="UD_AnaTabloYon" value="name:YID;datatype:int,name:TABLO_ADI;datatype:string,name:TERMINAL_AD;datatype:string,name:YON;datatype:int,name:Port;datatype:int" />
+</info>

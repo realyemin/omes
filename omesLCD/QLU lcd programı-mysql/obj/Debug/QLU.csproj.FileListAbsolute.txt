@@ -1,0 +1,254 @@
+C:\prod\Omes\kodlar\QLU\bin\Debug\QLU.exe.config
+C:\prod\Omes\kodlar\QLU\obj\Debug\Interop.WMPLib.dll
+C:\prod\Omes\kodlar\QLU\obj\Debug\AxInterop.WMPLib.dll
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+C:\prod\Omes\kodlar\QLU\bin\Debug\QLU.exe
+C:\prod\Omes\kodlar\QLU\bin\Debug\QLU.pdb
+C:\prod\Omes\kodlar\QLU\bin\Debug\Interop.WMPLib.dll
+C:\prod\Omes\kodlar\QLU\bin\Debug\AxInterop.WMPLib.dll
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.Satir.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.Properties.Resources.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLU1.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.resources
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.exe
+C:\prod\Omes\kodlar\QLU\obj\Debug\QLU.pdb
+D:\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe.config
+D:\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe
+D:\Prod\Omes\kodlar\QLU\bin\Debug\QLU.pdb
+D:\Prod\Omes\kodlar\QLU\bin\Debug\en\QLU.resources.dll
+D:\Prod\Omes\kodlar\QLU\bin\Debug\tr-TR\QLU.resources.dll
+D:\Prod\Omes\kodlar\QLU\bin\Debug\Interop.WMPLib.dll
+D:\Prod\Omes\kodlar\QLU\bin\Debug\AxInterop.WMPLib.dll
+D:\Prod\Omes\kodlar\QLU\obj\Debug\Interop.WMPLib.dll
+D:\Prod\Omes\kodlar\QLU\obj\Debug\AxInterop.WMPLib.dll
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.Satir.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Properties.Resources.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLU1.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.en.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+D:\Prod\Omes\kodlar\QLU\obj\Debug\en\QLU.resources.dll
+D:\Prod\Omes\kodlar\QLU\obj\Debug\tr-TR\QLU.resources.dll
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.exe
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.pdb
+D:\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe.config
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.pdb
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\en\QLU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\tr-TR\QLU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\Interop.WMPLib.dll
+D:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\AxInterop.WMPLib.dll
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\Interop.WMPLib.dll
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\AxInterop.WMPLib.dll
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.Satir.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Properties.Resources.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLU1.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.en.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\en\QLU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\tr-TR\QLU.resources.dll
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.exe
+D:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.pdb
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe.config
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.pdb
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\en\QLU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\tr-TR\QLU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\Interop.WMPLib.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\bin\Debug\AxInterop.WMPLib.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\Interop.WMPLib.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\AxInterop.WMPLib.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.Satir.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Properties.Resources.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLU1.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.en.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\en\QLU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\tr-TR\QLU.resources.dll
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.exe
+Z:\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe.config
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.exe
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\QLU.pdb
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\en\QLU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\tr-TR\QLU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\Interop.WMPLib.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\bin\Debug\AxInterop.WMPLib.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\Interop.WMPLib.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\AxInterop.WMPLib.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Controls.Satir.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.Properties.Resources.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLU1.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.en.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\en\QLU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\tr-TR\QLU.resources.dll
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.exe
+\\vmware-host\Shared Folders\Productions\Prod\Omes\kodlar\QLU\obj\Debug\QLU.pdb
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\QLU.exe.config
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\QLU.exe
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\QLU.pdb
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\en\QLU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\tr-TR\QLU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alper\Works\OMES\Project\QLU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.Controls.Satir.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.Properties.Resources.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.QLUMain.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.W_QLU1.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.W_QLUSettings.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.QLUMain.en.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\en\QLU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\tr-TR\QLU.resources.dll
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.exe
+C:\Users\Alper\Works\OMES\Project\QLU\obj\Debug\QLU.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\QLU.exe.config
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\QLU.exe
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\QLU.pdb
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\en\QLU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\tr-TR\QLU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\Interop.WMPLib.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\Interop.WMPLib.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.Controls.Satir.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.Properties.Resources.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.QLUMain.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.W_QLU1.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.W_QLUSettings.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.QLUMain.en.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\en\QLU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\tr-TR\QLU.resources.dll
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.exe
+C:\Users\Alper\Works\OMES\201701\Project\QLU\obj\Debug\QLU.pdb
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\Interop.WMPLib.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.csproj.ResolveComReference.cache
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.Controls.Satir.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\Kiosk.FormTusTakimi.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.Properties.Resources.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.QLUMain.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.W_QLU1.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.W_QLUSettings.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.QLUMain.en.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.QLUMain.tr-TR.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.W_QLUSettings.en.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\obj\Debug\QLU.csproj.GenerateResource.Cache
+C:\Users\OMER\Desktop\Project 20.01.17\Project\QLU\bin\Debug\QLU.exe.config
+G:\Project omes\QLU lcd programı\bin\Debug\QLU.exe.config
+G:\Project omes\QLU lcd programı\obj\Debug\Interop.WMPLib.dll
+G:\Project omes\QLU lcd programı\obj\Debug\AxInterop.WMPLib.dll
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.csproj.ResolveComReference.cache
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.Controls.Satir.resources
+G:\Project omes\QLU lcd programı\obj\Debug\Kiosk.FormTusTakimi.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.Properties.Resources.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.QLUMain.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.W_QLU1.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.W_QLUSettings.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.QLUMain.en.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.QLUMain.tr-TR.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.W_QLUSettings.en.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.csproj.GenerateResource.Cache
+G:\Project omes\QLU lcd programı\bin\Debug\QLU.exe
+G:\Project omes\QLU lcd programı\bin\Debug\QLU.pdb
+G:\Project omes\QLU lcd programı\bin\Debug\en\QLU.resources.dll
+G:\Project omes\QLU lcd programı\bin\Debug\tr-TR\QLU.resources.dll
+G:\Project omes\QLU lcd programı\bin\Debug\Interop.WMPLib.dll
+G:\Project omes\QLU lcd programı\bin\Debug\AxInterop.WMPLib.dll
+G:\Project omes\QLU lcd programı\obj\Debug\en\QLU.resources.dll
+G:\Project omes\QLU lcd programı\obj\Debug\tr-TR\QLU.resources.dll
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.exe
+G:\Project omes\QLU lcd programı\obj\Debug\QLU.pdb
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\QLU.exe.config
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\QLU.exe
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\QLU.pdb
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\en\QLU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\tr-TR\QLU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\MySql.Data.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\MySql.Data.xml
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\Interop.WMPLib.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\bin\Debug\AxInterop.WMPLib.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.csprojResolveAssemblyReference.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\Interop.WMPLib.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\AxInterop.WMPLib.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.csproj.ResolveComReference.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.Controls.AnaTabloSatir.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.Controls.Satir.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\Kiosk.FormTusTakimi.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.Properties.Resources.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.QLUMain.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.W_QLU1.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.W_QLUSettings.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.QLUMain.en.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.QLUMain.tr-TR.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.W_QLUSettings.en.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.W_QLUSettings.tr-TR.resources
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.csproj.GenerateResource.Cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.csproj.CoreCompileInputs.cache
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\en\QLU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\tr-TR\QLU.resources.dll
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.exe
+E:\WEB_PROJECTS\www\aktif\omes\omesLCD\QLU lcd programı-mysql\obj\Debug\QLU.pdb

@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Personel" value="name:PID;datatype:int,name:TID;datatype:int,name:AD;datatype:string,name:SOYAD;datatype:string,name:ADRES;datatype:string,name:TEL;datatype:string,name:GSM;datatype:string,name:EMAIL;datatype:string,name:ACIKLAMA;datatype:string,name:CALISIYOR;datatype:int,name:KAYIT_TARIHI;datatype:datetime,name:KULLANICI_ADI;datatype:string,name:SIFRE;datatype:string,name:OTURUM_DURUM;datatype:int,name:SIL;datatype:int,name:S_YF1;datatype:string,name:S_YF2;datatype:string,name:S_YF3;datatype:string,name:I_YF1;datatype:int,name:I_YF2;datatype:int,name:I_YF3;datatype:int,name:B_YF;datatype:int" />
+	<infoitem key="UD_Terminal" value="name:TID;datatype:int,name:TERMINAL_AD;datatype:string" />
+</info>

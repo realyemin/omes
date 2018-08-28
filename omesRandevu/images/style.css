@@ -1,0 +1,121 @@
+A		 					{FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Arial, Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:#000000}
+A:hover		 				{FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Arial, Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:#000000}
+td		 					{FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Arial, Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:#000000}
+input	 					{FONT-SIZE: 10pt; FONT-FAMILY: Tahoma, Arial, Verdana, "Arial Narrow";  border-style: solid; border-width: 1px; width:200px; border: 1px solid #BBB;}
+.checkbox12	 				{width:20px; height:17px;border-style: solid; border-width:0px;}
+select						{FONT-SIZE: 10pt; FONT-FAMILY: Tahoma,Arial,Verdana, "Arial Narrow"; border-style:solid; border-width: 1px; width:200px; height:20px; border: 1px solid #BBB;}
+textarea 					{FONT-SIZE: 8pt; FONT-FAMILY: Tahoma,Arial,Verdana, "Arial Narrow"; border-style:solid; border-width: 1px; width:180px; border: 1px solid #BBB;}
+.solmenulnk					{FONT-SIZE: 10pt;  FONT-FAMILY: Tahoma,Arial,Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:#08293C;letter-spacing:0.5pt;}
+.solmenulnk:hover			{FONT-SIZE: 10pt;  FONT-FAMILY: Tahoma,Arial,Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:#08293C;letter-spacing:0.5pt;}
+.buyukfont					{FONT-SIZE: 11pt;  FONT-FAMILY: Tahoma,Arial,Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:#08293C;letter-spacing:0.2pt;}
+.kucukfont					{FONT-SIZE: 8pt;  FONT-FAMILY: Tahoma,Arial,Verdana, "Arial Narrow"; TEXT-DECORATION:none; COLOR:gray;letter-spacing:0.2pt;}
+.ortatablo					{border-style:solid; border-width:1px; border-color:#c0c0c0;}
+.ortatablo1					{border-style:solid; border-width:1px; border-color:#c0c0c0;padding: 4px 4px 4px 4px;}
+
+.adminbtn 					{FONT-SIZE: 9pt;  FONT-FAMILY: Arial, Verdana, Tahoma, "Arial Narrow"; border-style: solid; border-width: 1px; width:100px; height:19px;cursor:pointer;background-color: lightyellow;}
+.admincheckb				{FONT-SIZE: 9pt;  FONT-FAMILY: Arial, Verdana, Tahoma, "Arial Narrow"; border-style: solid; border-width: 0px; width:20px; height:20px;}
+
+
+.chromestyle
+	{
+		width: 100%;
+		font-weight: bold;
+		color:#ffffff;
+	}
+
+.chromestyle:after
+	{
+		content: "."; 
+		display: block;
+		height: 0px; 
+		clear: both; 
+		visibility: hidden;
+	}
+
+.chromestyle ul
+	{
+		border: 1px solid #BBB;
+		width: 100%;
+		background:#e0e0e0;
+		padding: 4px 0;
+		margin: 0;
+	}
+
+.chromestyle ul li
+	{
+		display: inline;
+	}
+
+.chromestyle ul li a
+	{
+		color: #494949;
+		padding: 4px 2px;
+		margin: 0;
+		text-decoration: none;
+		border-right: 1px solid #DADADA;
+	}
+
+.chromestyle ul li a:hover, .chromestyle ul li a.selected /* Ana Menü Üzerine Gelince*/
+	{
+		background:#E0E0E0;
+		color: #000000;
+	}
+
+
+.dropmenudiv
+	{
+		position:absolute;
+		top: 0;
+		border: 2px solid #bbb;
+		border-bottom-width: 0;
+		font:normal 10px Verdana;
+		line-height:18px;
+		z-index:100;
+		background-color: #8d8d8d;
+		width: 143px;
+		visibility: hidden;
+	}
+
+
+.dropmenudiv a /*Açýlan menü*/
+	{
+		width: auto;
+		display: block;
+		text-indent: 3px;
+		border-bottom: 1px solid #BBB; /*THEME CHANGE HERE*/
+		padding: 2px 0;
+		text-decoration: none;
+		font-weight: bold;
+		color: #000000;
+	}
+
+* html .dropmenudiv a
+	{
+		width: 100%;
+	}
+
+.dropmenudiv a:hover /*Üzerine gelince zemin rengi*/
+	{
+		background-color: #77eb87; 
+	}
+
+#signup-btn a
+	{
+		width:100%;
+		height:20px;
+		background:#fa2 url(bg-btn-signup.png) repeat-x 0 0;
+		display:block;
+		padding:8px 1px;
+		border:1px solid #fa2;
+		-webkit-border-radius:5px;
+		-moz-border-radius:5px;
+		border-radius:5px;
+		text-decoration:none;
+		text-align:center;
+		color:#444;
+		text-shadow:0 1px 0 #fe6;
+		font:bold 16px Arial,Sans-serif;
+	}
+#signup-btn a:hover,
+#signup-btn a:focus		{background-position:0 -5px;color:#000;}
+#signup-btn a:active	{background-image:none;}

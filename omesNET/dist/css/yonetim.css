@@ -1,0 +1,12 @@
+.datepicker> ::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: yellow;
+    opacity: 1; /* Firefox */
+}
+
+.datepicker> :-ms-input-placeholder { /* Internet Explorer 10-11 */
+    color: red;
+}
+
+.datepicker> ::-ms-input-placeholder { /* Microsoft Edge */
+    color: red;
+}

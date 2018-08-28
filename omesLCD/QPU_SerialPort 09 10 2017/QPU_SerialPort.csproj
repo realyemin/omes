@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4AC961ED-2430-4245-A1FA-1B96B2DD324D}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QPU_SerialPort</RootNamespace>
+    <AssemblyName>QPU_SerialPort</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>QCUIcon128X128.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="ComCommunication, Version=1.1.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\ComCommunication\bin\Debug\ComCommunication.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\SerialPort\DBLayer\DBProcess.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\Anket.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\Kuyruk.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\Kuyruk.DB.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\TerminalGrup.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\TerminalGrup.DB.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\Terminaller.cs" />
+    <Compile Include="Classes\SerialPort\QueueLayer\Terminaller.DB.cs" />
+    <Compile Include="Classes\SerialPort\SerialCommunicateLayer\Communicate.Decide.cs" />
+    <Compile Include="Classes\SerialPort\TicketLayer\Bilet.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Classes\SerialPort\TicketLayer\Bilet.DB.cs" />
+    <Compile Include="Classes\SerialPort\TicketLayer\BiletMakineButon.cs" />
+    <Compile Include="Classes\SerialPort\TicketLayer\BiletMakineButon.DB.cs" />
+    <Compile Include="Classes\SerialPort\TicketLayer\Grup.cs" />
+    <Compile Include="Classes\SerialPort\TicketLayer\Grup.DB.cs" />
+    <Compile Include="Classes\TCPIP\DBLayer\DBProcess.cs" />
+    <Compile Include="Classes\TCPIP\DBLayer\SanalTerminal.cs" />
+    <Compile Include="Classes\TCPIP\QueueLayer\Kuyruk.cs" />
+    <Compile Include="Classes\TCPIP\QueueLayer\KuyrukSira.cs" />
+    <Compile Include="Classes\TCPIP\SocketCommunicateLayer\ClientConnection.cs" />
+    <Compile Include="Classes\TCPIP\SocketCommunicateLayer\Communicate.Decide.cs" />
+    <Compile Include="Classes\TCPIP\SocketCommunicateLayer\QLUComm\LCDClient.cs" />
+    <Compile Include="Classes\TCPIP\SocketCommunicateLayer\QLUComm\QLUClientCommunicating.cs" />
+    <Compile Include="Classes\TCPIP\SocketCommunicateLayer\QLUComm\QLUClientConnection.cs" />
+    <Compile Include="Classes\TCPIP\SysConfigration\ServerConfig.cs" />
+    <Compile Include="Classes\TCPIP\SysConfigration\ServerConfig.DB.cs" />
+    <Compile Include="Classes\TCPIP\TicketLayer\Bilet.cs" />
+    <Compile Include="Classes\TCPIP\TicketLayer\Bilet.DB.cs" />
+    <Compile Include="Classes\TCPIP\TicketLayer\BiletMakineButon.cs" />
+    <Compile Include="Classes\TCPIP\TicketLayer\BiletMakineButon.DB.cs" />
+    <Compile Include="Classes\TCPIP\TicketLayer\Grup.cs" />
+    <Compile Include="Classes\TCPIP\TicketLayer\Grup.DB.cs" />
+    <Compile Include="OlayGunluk.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Classes\SerialPort\QueueLayer\Kuyruk.Logic.cs" />
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QCUIcon128X128.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <UserProperties BuildVersion_StartDate="2011/6/22" BuildVersion_BuildVersioningStyle="Increment.Increment.Increment.Increment" BuildVersion_UpdateFileVersion="True" BuildVersion_UpdateAssemblyVersion="True" BuildVersion_UseGlobalSettings="True" />
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

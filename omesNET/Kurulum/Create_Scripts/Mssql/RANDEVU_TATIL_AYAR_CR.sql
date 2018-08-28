@@ -1,0 +1,14 @@
+CREATE TABLE [dbo].[RANDEVU_TATIL_AYAR](
+	[id] [int] IDENTITY(1,1) NOT NULL,
+	[tatilTarihi] [date] NULL,
+	[tatilPeriyot] [tinyint] NULL,
+	[tatilAciklama] [nvarchar](150) NULL,
+	[aktif] [bit] NULL,
+	[GRPID] [int] NULL,
+ CONSTRAINT [PK_RANDEVU_TATIL_AYAR] PRIMARY KEY CLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+

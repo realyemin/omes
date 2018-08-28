@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="../compiled/flipclock.css">
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+		<script src="../compiled/flipclock.js"></script>
+<style>
+.clock{
+zoom: 0.5;
+-moz-transform: scale(0.5)
+
+}
+.flip-clock-label{ display: none !important; }
+</style>		
+	</head>
+	<body>
+	<div class="clock"></div>
+	<div class="message"></div>
+
+	<script type="text/javascript">
+		var clock;
+		
+		$(document).ready(function() {
+
+			clock = $('.clock').FlipClock(10, {
+		        clockFace: 'MinuteCounter',
+		        countdown: true,
+		        callbacks: {
+		        	stop: function() {
+		        		$('.message').html('The clock has stopped!');
+						alert("Oturum Süreniz doldu");
+						window.location="index.php";
+		        	}
+		        }
+		    });
+
+		});
+		
+	</script>
+	
+	</body>
+</html>
